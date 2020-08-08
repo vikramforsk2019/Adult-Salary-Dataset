@@ -1,9 +1,9 @@
 # Adult-Salary-Dataset
 Data Analysis &amp; Machine Learning with python — Adult Salary Dataset
 # The Adult dataset 
-# Number of Attributes
-6 continuous, 8 nominal attributes. 
+
 # Attribute Information: 
+6 continuous, 8 nominal attributes. 
  age: continuous.
 workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
 fnlwgt: continuous.
